@@ -4,6 +4,15 @@ lib/*
 
 # Ignore any executables
 bin/*
+# Exec
+clients/C_Cpp/client
+clients/C_Cpp/mouse/mouse_client
 
 # Ignore ide folders
 .vscode
+
+# Install
+dist
+
+# Obj
+*.o
